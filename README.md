@@ -12,11 +12,11 @@ For questions, comments, or remarks about the code please contact the responsibl
 Please copy the files to the "current working directory" of the R.
 
 # Descriptions of the codes #
- (1) MH_nu.r: Sampling from the posterior distribution of nu under different prior specifications.
- (2) NMV_CLR_Bayes.r:  A parametric fit for censored linear regression models based on NMVM distributions, from a Bayesian perspective.
- (3) Gibbs-sampling.r: Sampling from the posterior distribution of various parameters.
- (4) NMVMdist: PDF and CDF of the NMVM family of distributions
- (5) Example code to use programe.
+ 1. MH_nu.r: Sampling from the posterior distribution of nu under different prior specifications.
+ 2. NMV_CLR_Bayes.r:  A parametric fit for censored linear regression models based on NMVM distributions, from a Bayesian perspective
+ 3. Gibbs-sampling.r: Sampling from the posterior distribution of various parameters.
+ 4. NMVMdist: PDF and CDF of the NMVM family of distributions
+ 5. Example code to use the program.
  
 # Notes #
   1. The "ggplot2","gridExtra","truncnorm","ghyp","cli" and "tcltk" R packages are required;
